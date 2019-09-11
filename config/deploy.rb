@@ -1,12 +1,12 @@
 # config valid only for current version of Capistrano
 lock "3.11.0"
 
-set :application, 'book_shop'
-set :repo_url, 'git@bitbucket.org:ali-hassan-mirza/book_shop.git'
+set :application, 'find_my_ecom'
+set :repo_url, 'git@bitbucket.org:Findmyecomm19/find_my_ecom.git'
 
-set :deploy_to, '/home/ubuntu/www/book_shop'
+set :deploy_to, '/home/ubuntu/www/find_my_ecom'
 
-set :rvm_ruby_version, 'ruby-2.6.2@book_shop'
+set :rvm_ruby_version, 'ruby-2.6.2@find_my_ecom'
 
 set :linked_files, %w{config/config.yml config/database.yml config/newrelic.yml config/application.yml}
 
