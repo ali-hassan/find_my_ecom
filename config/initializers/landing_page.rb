@@ -145,7 +145,7 @@ module CustomLandingPage
         {
           "title": "Let the fun begin ",
           "icon": "mask-happy",
-          "paragraph": "Our agencies will ensure that you have a constructive, personalized and seamless experience. You will receive a one on one service where we aim to sure our agencies put your business needs first and guide you to improving and stepping up your game. Find you agency today!"
+          "paragraph": "Our agencies will ensure that you have a constructive, personalized and seamless experience. You will receive a one on one service where we aim to sure our agencies put your business needs first and guide you to improving and stepping up your game. Find your agency today!"
         }
       ],
       "button_title": "Join FindMyEcommB2B Today",
